@@ -73,7 +73,7 @@ You can log in with any ID/PW in no server mode. (ex. ID: admin, PW: admin)
 &nbsp;  
   
 ```  
-(development.json)  
+(public/config/default.json)  
   
 "NO_SERVER_MODE": false  
 ```  
